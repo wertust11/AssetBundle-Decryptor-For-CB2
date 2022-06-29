@@ -1,7 +1,7 @@
 # AnimeGame-CB2 BinaryFileReader
  BinaryFileReader for CB2 
 
-I have no idea who code this
+I have no idea who write this code.
 
-
-After launching, a folder will be created in \StreamingAssets\AssetBundles, the files inside can be opened with https://github.com/Perfare/AssetStudio.
+You should specify the path to your \StreamingAssets\AssetBundles folder, in Program.cs.
+After launching, a new folder will be created in \StreamingAssets\AssetBundles, the files inside can be opened with https://github.com/Perfare/AssetStudio.
