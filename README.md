@@ -1,5 +1,4 @@
 # cb2 files decryption
- BinaryFileReader for CB2.
 
 I have no idea who wrote this code.
 
