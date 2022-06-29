@@ -1,7 +1,7 @@
 # AnimeGame-CB2 BinaryFileReader
  BinaryFileReader for CB2 
 
-I have no idea who write this code.
+I have no idea who wrote this code.
 
 
 You should specify the path to your \StreamingAssets\AssetBundles folder, in Program.cs.
