@@ -1,5 +1,5 @@
-# AnimeGame-CB2 BinaryFileReader
- BinaryFileReader for CB2 
+# AnimeGame BinaryFileReader For cb2.
+ BinaryFileReader for CB2.
 
 I have no idea who wrote this code.
 
